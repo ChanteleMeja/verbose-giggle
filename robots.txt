@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://verbose-giggle.github.io/sitemap.xml
