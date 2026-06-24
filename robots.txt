@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://verbose-giggle.github.io/sitemap.xml
+Sitemap: https://chantelemeja.github.io/verbose-giggle/sitemap.xml
